@@ -1,0 +1,1 @@
+Hello! This is the sample text file to be checked in to the GitHub repository which is created in GitHub website and pushing the file with the changes.
